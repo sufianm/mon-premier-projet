@@ -8,7 +8,7 @@ Les etape de lancement de ton projet le script dans run.sh:
 ```bash
 chmod +x run.sh
 ```
-2. Exécuter le Script Bash
+2. Exécuter le Script Bash:
 
 - Exécutez le script en utilisant la commande :
 

@@ -7,7 +7,7 @@ def main():
     if response.status_code == 200:
         print("Connected to GitHub API successfully!")
     else:
-        print("Failed to connect to GitHub API.")
+        print("Failed to connect to GitHub API")
 
 if __name__ == "__main__":
     main()
